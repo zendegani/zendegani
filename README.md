@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zendegani&hide=stars&show_icons=true&include_all_commits=true" alt="Ali's github stats" />
 <!-- </a>
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zendegani&layout=compact&theme=material-palenight" />
 </a>
  -->
+  </p>
