@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zendegani&hide=stars&show_icons=true&include_all_commits=true" alt="Ali's github stats" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zendegani&layout=compact&theme=material-palenight" />
@@ -24,4 +25,3 @@ Here are some ideas to get you started:
  -->
   </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
