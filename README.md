@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.youracclaim.com/badges/97ee1352-ca26-45d9-8218-71d1c7092498/public_url">
-  <img align="center" src="ibm-ai-engineering-professional-certificate.png" alt="IBM AI Engineering Professional Certificate" />
+  <img align="center" src="./ibm-ai-engineering-professional-certificate.png" alt="IBM AI Engineering Professional Certificate" />
 </a>
 </p>
 
