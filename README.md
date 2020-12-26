@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zendegani&layout=compact" />
 </a>
-
-<a href="https://www.youracclaim.com/badges/97ee1352-ca26-45d9-8218-71d1c7092498/public_url">
-  <img align="center" src="./ibm-ai-engineering-professional-certificate.png" alt="IBM AI Engineering Professional Certificate" />
-</a>
 </p>
 
+<p>
+<a href="https://www.youracclaim.com/badges/97ee1352-ca26-45d9-8218-71d1c7092498/public_url">
+  <img align="center" src="./ibm-ai-engineering-professional-certificate.png" alt="IBM AI Engineering Professional Certificate" width=20% />
+</a>
+</p>
 
 <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="97ee1352-ca26-45d9-8218-71d1c7092498" data-share-badge-host="https://www.youracclaim.com"></div>
 <script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script> -->
