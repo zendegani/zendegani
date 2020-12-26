@@ -27,22 +27,22 @@ Here are some ideas to get you started:
 
 <p>
 <a href="https://www.youracclaim.com/badges/97ee1352-ca26-45d9-8218-71d1c7092498/public_url">
-  <img align="center" src="./ibm-ai-engineering-professional-certificate.png" alt="IBM AI Engineering Professional Certificate" width=20% />
+  <img align="center" src="./ibm-ai-engineering-professional-certificate.png" alt="IBM AI Engineering Professional Certificate" width=15% />
 </a>
 <a href="https://www.youracclaim.com/badges/995c18da-7ca7-46f2-a4ac-fd4dda6ec000/public_url">
-  <img align="center" src="./deep-learning-with-tensorflow.png" alt="Deep Learning with Tensorflow" width=10% />
+  <img align="center" src="./deep-learning-with-tensorflow.png" alt="Deep Learning with Tensorflow" width=15% />
 </a>
 <a href="https://www.youracclaim.com/badges/b58c18a7-56bf-427e-ab47-2e6f7cf5606d/public_url">
-  <img align="center" src="./deep-neural-networks-with-pytorch.png" alt="Deep Neural Networks with PyTorch" width=10% />
+  <img align="center" src="./deep-neural-networks-with-pytorch.png" alt="Deep Neural Networks with PyTorch" width=15% />
 </a>
 <a href="https://www.youracclaim.com/badges/4921e568-7810-4100-be0a-b4eed2960488/public_url">
-  <img align="center" src="./deep-learning-essentials-with-keras.png" alt="Deep Learning Essentials with Keras" width=10% />
+  <img align="center" src="./deep-learning-essentials-with-keras.png" alt="Deep Learning Essentials with Keras" width=15% />
 </a>
 <a href="https://www.youracclaim.com/badges/e0dffe2e-bba6-4805-96c0-ff2c5c29170d/public_url">
-  <img align="center" src="./machine-learning-with-apache-spark.png" alt="Machine Learning with Apache Spark" width=10% />
+  <img align="center" src="./machine-learning-with-apache-spark.png" alt="Machine Learning with Apache Spark" width=15% />
 </a>
 <a href="https://www.youracclaim.com/badges/e12291ff-b118-407c-a206-dfee87bce90c/public_url">
-  <img align="center" src="./machine-learning-with-python.png" alt="Machine Learning with Python" width=10% />
+  <img align="center" src="./machine-learning-with-python.png" alt="Machine Learning with Python" width=15% />
 </a>
 </p>
 
