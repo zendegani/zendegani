@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zendegani&hide=stars&show_icons=true&include_all_commits=true" alt="Ali's github stats" />
@@ -45,6 +46,7 @@ Here are some ideas to get you started:
   <img align="center" src="./machine-learning-with-python.png" alt="Machine Learning with Python" width=14% />
 </a>
 </p>
+-->
 
 <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="97ee1352-ca26-45d9-8218-71d1c7092498" data-share-badge-host="https://www.youracclaim.com"></div>
 <script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script> -->
