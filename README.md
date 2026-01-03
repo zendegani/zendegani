@@ -1,4 +1,20 @@
 ### Hi there 👋
+<h2 align="center">Technologies used</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-593D88?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-4285F4?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-3DDC84?style=for-the-badge&logo=nano&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+
 <!--
 **zendegani/zendegani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
