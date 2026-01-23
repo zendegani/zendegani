@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack</h2>
-<p align="center">
+## 🛠️ Tech Stack
+
+<p align="left">
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
@@ -33,20 +34,10 @@
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
 </p>
 
-<!--
-**zendegani/zendegani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## </> Current Projects
 
-Here are some ideas to get you started:
+- **[CanvasAI](https://canvas-ai2d.vercel.app/)** -  allows you to break free from linear chat threads. Visualize your thoughts, branch conversations, and orchestrate multiple AI models on a single, infinite spatial interface.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -87,4 +78,3 @@ Here are some ideas to get you started:
 <!-- https://www.youracclaim.com/badges/97ee1352-ca26-45d9-8218-71d1c7092498/public_url -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zendegani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
-
