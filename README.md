@@ -54,7 +54,7 @@
 ## </> Selected Projects
 
 - **[CanvasAI](https://canvas-ai2d.vercel.app/)** -  allows you to break free from linear chat threads. Visualize your thoughts, branch conversations, and orchestrate multiple AI models on a single, infinite spatial interface.
-- **[tweet2md](https://github.com/zendegani/tweet2md/)** - a Chrome extension to convert X.com (Twitter) posts and articles into clean Markdown files — one click.
+- **[tweet2md](https://chromewebstore.google.com/detail/tweet2md/epmmehilhbpkgcjbcohgkmihlalagkho)** - a Chrome extension to convert X.com (Twitter) posts and articles into clean Markdown files — one click.
 
 <!-- 
 <p align="center">
