@@ -18,8 +18,9 @@
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/-Langfuse-000000?style=flat-square&logo=langfuse&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
@@ -30,6 +31,7 @@
 
 - **[CanvasAI](https://canvas-ai2d.vercel.app/)** -  allows you to break free from linear chat threads. Visualize your thoughts, branch conversations, and orchestrate multiple AI models on a single, infinite spatial interface.
 - **[tweet2md](https://chromewebstore.google.com/detail/tweet2md/epmmehilhbpkgcjbcohgkmihlalagkho)** - a Chrome extension to convert X.com (Twitter) posts and articles into clean Markdown files — one click.
+- **[Pishkar (Yet-Another-Claw)](https://github.com/zendegani/yaclaw/tree/main)** - a crash-resilient, local-first AI butler. Features multi-provider LLMs, Model Context Protocol (MCP) support, and cross-interface chat (Web UI & Telegram).
 
 <!-- 
 <p align="center">
