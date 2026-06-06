@@ -30,7 +30,12 @@
 ## </> Selected Projects
 
 - **[CanvasAI](https://canvas-ai2d.vercel.app/)** -  allows you to break free from linear chat threads. Visualize your thoughts, branch conversations, and orchestrate multiple AI models on a single, infinite spatial interface.
-- **[tweet2md](https://chromewebstore.google.com/detail/tweet2md/epmmehilhbpkgcjbcohgkmihlalagkho)** - a Chrome extension to convert X.com (Twitter) posts and articles into clean Markdown files — one click.
+- **[XClipper](https://chromewebstore.google.com/detail/xclipper/epmmehilhbpkgcjbcohgkmihlalagkho)** - a Chrome extension to export X/Twitter Articles and threads into PDF or Markdown files for Obsidian — one click.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zendegani/xclipper/main/assets/01-product-overview.png" alt="Product Overview" />
+</p>
+  
 - **[Pishkar (Yet-Another-Claw)](https://github.com/zendegani/yaclaw/tree/main)** - a crash-resilient, local-first AI butler. Features multi-provider LLMs, Model Context Protocol (MCP) support, and cross-interface chat (Web UI & Telegram).
 
 <!-- 
