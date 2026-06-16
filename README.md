@@ -30,14 +30,15 @@
 ## </> Selected Projects
 
 - **[CanvasAI](https://canvas-ai2d.vercel.app/)** -  allows you to break free from linear chat threads. Visualize your thoughts, branch conversations, and orchestrate multiple AI models on a single, infinite spatial interface.
-- **[XClipper](https://chromewebstore.google.com/detail/xclipper/epmmehilhbpkgcjbcohgkmihlalagkho)** - a Chrome extension to export X/Twitter Articles and threads into PDF or Markdown files for Obsidian — one click.
+
+- **[Pishkar](https://github.com/zendegani/yaclaw/tree/main)** - Yet-Another-Claw (YAClaw) a crash-resilient, local-first AI butler. Features multi-provider LLMs, Model Context Protocol (MCP) support, and cross-interface chat (Web UI & Telegram).
+
+- **[XClipper](https://chromewebstore.google.com/detail/xclipper/epmmehilhbpkgcjbcohgkmihlalagkho)** - (a.k.a tweet2md) The high-fidelity X / Twitter web clipper — save posts, threads & articles to Markdown, PDF, HTML, JSON, CSV & Obsidian, one at a time or in batch.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zendegani/xclipper/main/assets/01-product-overview.png" alt="Product Overview" />
+  <img src="https://raw.githubusercontent.com/zendegani/xclipper/main/store/promo/Marquee promo tile.png" alt="Product Overview" />
 </p>
   
-- **[Pishkar (Yet-Another-Claw)](https://github.com/zendegani/yaclaw/tree/main)** - a crash-resilient, local-first AI butler. Features multi-provider LLMs, Model Context Protocol (MCP) support, and cross-interface chat (Web UI & Telegram).
-
 <!-- 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
