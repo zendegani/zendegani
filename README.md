@@ -29,13 +29,14 @@
 
 ## </> Selected Projects
 
-- **[CanvasAI](https://canvas-ai2d.vercel.app/)** -  allows you to break free from linear chat threads. Visualize your thoughts, branch conversations, and orchestrate multiple AI models on a single, infinite spatial interface.
+- **[XClipper](https://chromewebstore.google.com/detail/xclipper/epmmehilhbpkgcjbcohgkmihlalagkho)** - (a.k.a tweet2md) The high-fidelity X / Twitter web clipper — save posts, threads & articles to Markdown, PDF, HTML, JSON, CSV & Obsidian, with images & video saved as local files, one at a time or in batch.
 
 - **[Claw-Atlas](https://github.com/zendegani/claw-atlas)** -  A source-based comparison of 15 open-source "Claw" agent runtimes across 8 architectural dimensions — execution loop, context assembly, memory, tools, gateway and channels, scheduling and proactivity, governance, durability — with every claim cited to file:line at a pinned commit. Basis for a talk at AI Düsseldorf, July 2026.
 
 - **[Pishkar](https://github.com/zendegani/yaclaw/tree/main)** - Yet-Another-Claw (YAClaw) a crash-resilient, local-first AI butler. Features multi-provider LLMs, Model Context Protocol (MCP) support, and cross-interface chat (Web UI & Telegram).
 
-- **[XClipper](https://chromewebstore.google.com/detail/xclipper/epmmehilhbpkgcjbcohgkmihlalagkho)** - (a.k.a tweet2md) The high-fidelity X / Twitter web clipper — save posts, threads & articles to Markdown, PDF, HTML, JSON, CSV & Obsidian, one at a time or in batch.
+- **[CanvasAI](https://github.com/zendegani/canvas-chatbot)** -  allows you to break free from linear chat threads. Visualize your thoughts, branch conversations, and orchestrate multiple AI models on a single, infinite spatial interface.
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zendegani/xclipper/main/store/promo/Marquee promo tile.png" alt="Product Overview" />
